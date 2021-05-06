@@ -1,0 +1,13 @@
+.cont{
+        /* The image used */
+        background-image: url(../../assets/homebk.png);
+        
+        /* Full height */
+        height: 101vh; 
+        width: 100vw;
+        margin-top: -10px;
+        /* Center and scale the image nicely */
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+}
