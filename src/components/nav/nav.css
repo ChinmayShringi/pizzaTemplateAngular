@@ -4,4 +4,6 @@
 }
 .navbar-brand{
         font-size: 1.8rem;
+        margin: 10px 20px;
+        border-left: 5px pink solid;
 }

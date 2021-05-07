@@ -11,3 +11,13 @@
         background-repeat: no-repeat;
         background-size: cover;
 }
+.row{
+        min-height: 100%;  /* Fallback for browsers do NOT support vh unit */
+        min-height: 80vh; 
+        display: flex;
+        align-items: center;
+}
+
+.textCol{
+        width: 10px;
+}
